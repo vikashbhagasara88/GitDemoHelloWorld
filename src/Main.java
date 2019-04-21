@@ -4,6 +4,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World added to git!");
         System.out.println("Hadded to git from url!")
-        System.out.println("Aadded to git from Intellij!");
+        System.out.println("Aadded to git Intellij!");
     }
 }
